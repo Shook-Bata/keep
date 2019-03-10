@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">登陆</string>
+    <string name="message">资讯</string>
+    <string name="Zhihu">知乎日报</string>
+    <string name="wechat">微信精选</string>
+    <string name="gank">干货集中营</string>
+    <string name="gold">稀土掘金</string>
+    <string name="V2EX">V2EX</string>
+    <string name="option">选项</string>
+    <string name="like">收藏</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+    <string name="ribao">日报</string>
+    <string name="column">专栏</string>
+    <string name="Hot">热门</string>
+    <string name="theme">主题</string>
+</resources>
